@@ -14,14 +14,14 @@ Completed a stipend-based internship at Command HQ
 Working on various full-stack projects using modern technologies
 
 - 💻 Tech Stack
-##Frontend
+## Frontend
 
 React.js
 Next.js
 Bootstrap
 Currently learning Angular
 
-##Backend
+## Backend
 
 Node.js
 Express.js
