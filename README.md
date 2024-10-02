@@ -8,6 +8,25 @@ Hello! I'm Sai Chandana Jampala, a full-stack web developer with expertise in Ma
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/saichandanajampala/)
 - 💻 GitHub: [GitHub Profile](https://github.com/sai-chandana-jampala)
 
+ -🚀 Current Experience
+
+Completed a stipend-based internship at Command HQ
+Working on various full-stack projects using modern technologies
+
+- 💻 Tech Stack
+##Frontend
+
+React.js
+Next.js
+Bootstrap
+Currently learning Angular
+
+##Backend
+
+Node.js
+Express.js
+Next.js (API routes)
+
 ## Project Overview
 This repository contains my implementation of two exercises:
 1. Design Patterns Demonstration
@@ -29,7 +48,7 @@ In this exercise, I demonstrated six different design patterns across three cate
 - **Decorator Pattern**: Implemented a coffee shop ordering system
 
 ### Exercise 2: Astronaut Schedule Manager
-A full-stack application for astronauts to manage their daily schedules efficiently.
+A full-stack application for astronauts to manage their daily schedules efficiently. (Tested every api using postman)
 
 ## Technology Stack
 - **Frontend**: Next.js, React, Shadcn UI
