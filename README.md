@@ -5,8 +5,8 @@ Hello! I'm Sai Chandana Jampala, a full-stack web developer with expertise in Ma
 
 - 🌐 Portfolio: [saichandanajampala.netlify.app](https://saichandanajampala.netlify.app)
 - 📧 Email: saichandanajampala@gmail.com
-- 🔗 LinkedIn: [LinkedIn Profile]
-- 💻 GitHub: [GitHub Profile]
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/saichandanajampala/)
+- 💻 GitHub: [GitHub Profile](https://github.com/sai-chandana-jampala)
 
 ## Project Overview
 This repository contains my implementation of two exercises:
@@ -204,4 +204,4 @@ npm run dev
 ## Contact
 For any queries regarding this project, feel free to reach out:
 - Email: saichandanajampala@gmail.com
-- LinkedIn: [Your LinkedIn]
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/saichandanajampala/)
