@@ -105,9 +105,9 @@ astronaut-scheduler/
 ## Screenshots
 
 [Add placeholder images for your UI/implementation]
-
-<img src="/api/placeholder/400/300" alt="Frontend UI" />
-<img src="/api/placeholder/400/300" alt="Task Creation" />
+## working ui and folder structures
+<img src="https://d2kxt8w2f20enb.cloudfront.net/simpleui.png" alt="workingui" />
+<img src="https://d2kxt8w2f20enb.cloudfront.net/frontend.png" alt="frontend.png" />
 <img src="https://d2kxt8w2f20enb.cloudfront.net/backend.png" alt="Backend.png" />
 
 ## API Documentation
